@@ -1,0 +1,3 @@
+# MamothBot
+
+MamothBot!

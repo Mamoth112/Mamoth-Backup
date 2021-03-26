@@ -1,0 +1,17 @@
+[tokens]
+token = "ODE0NDEyNjY4MzI0MjgyMzk4.YDde5w.Td6IWWynmQFOGX-c0hxz3fu0-Aw"
+mainbot = "ODE2MTc2MzkwOTUxOTI3ODA4.YD3Jfw.-MxeyI0B39AXYOQoqtKrBOz091g"
+
+[twitch]
+Refresh = "qgko7n0zfcy1do81446s0g8fp16774zxqhnk31l4a9zmvxir12"
+Code = "4k879ikwloexmlp4cal807qi1afeah"
+
+[github]
+Code = "62fb40851a183d381bf3"
+
+[rustmaps]
+Key = "3a06b8e2-0da3-4f64-aaaa-6a4593df7168"
+
+[roles]
+moderator = 798147809303724033
+staff = 807884667831058452
